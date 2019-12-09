@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [GoldenArduino.PcbDoc]
+   Generated File[GoldenArduino.TXT]
+   Generated File[GoldenArduino.DRL]
+   Generated File[GoldenArduino.LDP]
+   Generated File[GoldenArduino.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:55:52 PM On 11/11/2019
