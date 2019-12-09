@@ -1,0 +1,353 @@
+Added Component: Designator=3.3V_CONN(TEST_PINS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=5V_CONN(TEST_PINS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1IC2(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/C1206C105M4RACTU/399-8150-1-ND/3471873/?itemSeq=303790193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?399-8150-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2IC2(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/CL31A226MOCLNNC/1276-2728-1-ND/3890814/?itemSeq=303790208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?1276-2728-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C_DEC(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/CL31A226MOCLNNC/1276-2728-1-ND/3890814/?itemSeq=303790208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?1276-2728-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=CD1(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/CL31A226MOCLNNC/1276-2728-1-ND/3890814/?itemSeq=303790208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?1276-2728-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=CD2(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/CL31A226MOCLNNC/1276-2728-1-ND/3890814/?itemSeq=303790208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?1276-2728-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=CD3(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/CL31A226MOCLNNC/1276-2728-1-ND/3890814/?itemSeq=303790208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?1276-2728-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=CD4(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/CL31A226MOCLNNC/1276-2728-1-ND/3890814/?itemSeq=303790208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?1276-2728-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=CD5(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/CL31A226MOCLNNC/1276-2728-1-ND/3890814/?itemSeq=303790208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?1276-2728-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=CD6(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/CL31A226MOCLNNC/1276-2728-1-ND/3890814/?itemSeq=303790208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?1276-2728-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=CU1(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/CL31A226MOCLNNC/1276-2728-1-ND/3890814/?itemSeq=303790208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?1276-2728-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=H1(HEX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/SN74ALVC14NSR/296-28498-1-ND/2642575/?itemSeq=303790195"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?296-28498-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Hex inverter"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(555)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/TLC555CDR/296-1336-1-ND/404959/?itemSeq=303790201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?296-1336-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "555 Timer"; VariantName = "[No Variations]"
+Added Component: Designator=L1(LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/LTST-C150CKT/160-1167-1-ND/269239/?itemSeq=303790203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "160-1167-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED LED"; VariantName = "[No Variations]"
+Added Component: Designator=L2(LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/LTST-C150CKT/160-1167-1-ND/269239/?itemSeq=303790203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "160-1167-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED LED"; VariantName = "[No Variations]"
+Added Component: Designator=L3(LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/LTST-C150CKT/160-1167-1-ND/269239/?itemSeq=303790203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "160-1167-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED LED"; VariantName = "[No Variations]"
+Added Component: Designator=L4(LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/LTST-C150CKT/160-1167-1-ND/269239/?itemSeq=303790203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "160-1167-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED LED"; VariantName = "[No Variations]"
+Added Component: Designator=L5(LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/LTST-C150CKT/160-1167-1-ND/269239/?itemSeq=303790203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "160-1167-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED LED"; VariantName = "[No Variations]"
+Added Component: Designator=L6(LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/LTST-C150CKT/160-1167-1-ND/269239/?itemSeq=303790203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "160-1167-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED LED"; VariantName = "[No Variations]"
+Added Component: Designator=L7(LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/LTST-C150CKT/160-1167-1-ND/269239/?itemSeq=303790203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "160-1167-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED LED"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/LTST-C150CKT/160-1167-1-ND/269239/?itemSeq=303790203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "160-1167-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED LED"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/LTST-C150CKT/160-1167-1-ND/269239/?itemSeq=303790203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "160-1167-1-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED LED"; VariantName = "[No Variations]"
+Added Component: Designator=Q_HIGH_CONN(3-PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/PREC003SAAN-RC/S1012EC-03-ND/2774851/?itemSeq=303790167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?S1012EC-03-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3-pin"; VariantName = "[No Variations]"
+Added Component: Designator=Q_HIGH(TEST_PINS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q_LOW_CONN(3-PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/PREC003SAAN-RC/S1012EC-03-ND/2774851/?itemSeq=303790167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?S1012EC-03-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3-pin"; VariantName = "[No Variations]"
+Added Component: Designator=Q_LOW(TEST_PINS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1IC2(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=303790179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digkiey Part"; Value = "RNCP1206FTD1K00CT-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R01(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD10K0/RNCP1206FTD10K0CT-ND/2240708/?itemSeq=303790164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?RNCP1206FTD10K0CT-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2IC2(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=303790179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digkiey Part"; Value = "RNCP1206FTD1K00CT-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R02(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=303790179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digkiey Part"; Value = "RNCP1206FTD1K00CT-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R03(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/RMCF1206JT300R/RMCF1206JT300RCT-ND/1942776/?itemSeq=303790185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "RMCF1206JT300RCT-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "300"; VariantName = "[No Variations]"
+Added Component: Designator=R04(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD49R9/RNCP1206FTD49R9CT-ND/2240649/?itemSeq=303790171"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "RNCP1206FTD49R9CT-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49.9"; VariantName = "[No Variations]"
+Added Component: Designator=RH5(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD49R9/RNCP1206FTD49R9CT-ND/2240649/?itemSeq=303790171"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "RNCP1206FTD49R9CT-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49.9"; VariantName = "[No Variations]"
+Added Component: Designator=RH6(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD49R9/RNCP1206FTD49R9CT-ND/2240649/?itemSeq=303790171"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "RNCP1206FTD49R9CT-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49.9"; VariantName = "[No Variations]"
+Added Component: Designator=RH7(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD49R9/RNCP1206FTD49R9CT-ND/2240649/?itemSeq=303790171"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "RNCP1206FTD49R9CT-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49.9"; VariantName = "[No Variations]"
+Added Component: Designator=RSupp1(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=303790179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digkiey Part"; Value = "RNCP1206FTD1K00CT-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=S1(3-PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/PREC003SAAN-RC/S1012EC-03-ND/2774851/?itemSeq=303790167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?S1012EC-03-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3-pin"; VariantName = "[No Variations]"
+Added Component: Designator=S2(3-PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/PREC003SAAN-RC/S1012EC-03-ND/2774851/?itemSeq=303790167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?S1012EC-03-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3-pin"; VariantName = "[No Variations]"
+Added Component: Designator=S3(3-PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/PREC003SAAN-RC/S1012EC-03-ND/2774851/?itemSeq=303790167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?S1012EC-03-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3-pin"; VariantName = "[No Variations]"
+Added Component: Designator=Supp(Power Jack)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/PJ-102A/CP-102A-ND/275425/?itemSeq=303790187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "CP-102A-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Power Jack"; VariantName = "[No Variations]"
+Added Component: Designator=TRIGG_CONN(3-PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/PREC003SAAN-RC/S1012EC-03-ND/2774851/?itemSeq=303790167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "?S1012EC-03-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3-pin"; VariantName = "[No Variations]"
+Added Component: Designator=TRIGGER(TEST_PINS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(LDO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=UR1(1206_PASSIVE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=303790179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digkiey Part"; Value = "RNCP1206FTD1K00CT-ND?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1Y Pin=H1-2
+Added Pin To Net: NetName=1Y Pin=Q_LOW-1
+Added Pin To Net: NetName=1Y Pin=Q_LOW_CONN-2
+Added Net: Name=1Y
+Added Pin To Net: NetName=2Y Pin=H1-4
+Added Pin To Net: NetName=2Y Pin=TRIGG_CONN-2
+Added Pin To Net: NetName=2Y Pin=TRIGGER-1
+Added Net: Name=2Y
+Added Pin To Net: NetName=3.3V_J Pin=CD1-1
+Added Pin To Net: NetName=3.3V_J Pin=CD2-1
+Added Pin To Net: NetName=3.3V_J Pin=CD3-1
+Added Pin To Net: NetName=3.3V_J Pin=H1-1
+Added Pin To Net: NetName=3.3V_J Pin=H1-14
+Added Pin To Net: NetName=3.3V_J Pin=S2-3
+Added Net: Name=3.3V_J
+Added Pin To Net: NetName=3.3V Pin=3.3V_CONN-1
+Added Pin To Net: NetName=3.3V Pin=CU1-2
+Added Pin To Net: NetName=3.3V Pin=S2-1
+Added Pin To Net: NetName=3.3V Pin=S2-2
+Added Pin To Net: NetName=3.3V Pin=U1-2
+Added Pin To Net: NetName=3.3V Pin=U1-4
+Added Pin To Net: NetName=3.3V Pin=UR1-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=3Y Pin=H1-6
+Added Pin To Net: NetName=3Y Pin=RH7-1
+Added Net: Name=3Y
+Added Pin To Net: NetName=4Y Pin=H1-8
+Added Pin To Net: NetName=4Y Pin=RH6-1
+Added Net: Name=4Y
+Added Pin To Net: NetName=5V_J Pin=S1-3
+Added Pin To Net: NetName=5V_J Pin=U1-3
+Added Net: Name=5V_J
+Added Pin To Net: NetName=5V Pin=5V_CONN-1
+Added Pin To Net: NetName=5V Pin=C_DEC-2
+Added Pin To Net: NetName=5V Pin=CD4-1
+Added Pin To Net: NetName=5V Pin=CD5-1
+Added Pin To Net: NetName=5V Pin=CD6-1
+Added Pin To Net: NetName=5V Pin=IC2-4
+Added Pin To Net: NetName=5V Pin=IC2-8
+Added Pin To Net: NetName=5V Pin=R1IC2-2
+Added Pin To Net: NetName=5V Pin=RSupp1-1
+Added Pin To Net: NetName=5V Pin=S1-1
+Added Pin To Net: NetName=5V Pin=S1-2
+Added Pin To Net: NetName=5V Pin=Supp-1
+Added Net: Name=5V
+Added Pin To Net: NetName=5Y Pin=H1-10
+Added Pin To Net: NetName=5Y Pin=RH5-1
+Added Net: Name=5Y
+Added Pin To Net: NetName=6Y Pin=H1-12
+Added Pin To Net: NetName=6Y Pin=Q_HIGH-1
+Added Pin To Net: NetName=6Y Pin=Q_HIGH_CONN-2
+Added Net: Name=6Y
+Added Pin To Net: NetName=555_O/P Pin=IC2-3
+Added Pin To Net: NetName=555_O/P Pin=R01-1
+Added Pin To Net: NetName=555_O/P Pin=R02-2
+Added Pin To Net: NetName=555_O/P Pin=R03-1
+Added Pin To Net: NetName=555_O/P Pin=R04-1
+Added Net: Name=555_O/P
+Added Pin To Net: NetName=GND Pin=3.3V_CONN-2
+Added Pin To Net: NetName=GND Pin=5V_CONN-2
+Added Pin To Net: NetName=GND Pin=C1IC2-1
+Added Pin To Net: NetName=GND Pin=C2IC2-2
+Added Pin To Net: NetName=GND Pin=C_DEC-1
+Added Pin To Net: NetName=GND Pin=CD1-2
+Added Pin To Net: NetName=GND Pin=CD2-2
+Added Pin To Net: NetName=GND Pin=CD3-2
+Added Pin To Net: NetName=GND Pin=CD4-2
+Added Pin To Net: NetName=GND Pin=CD5-2
+Added Pin To Net: NetName=GND Pin=CD6-2
+Added Pin To Net: NetName=GND Pin=CU1-1
+Added Pin To Net: NetName=GND Pin=H1-7
+Added Pin To Net: NetName=GND Pin=H1-13
+Added Pin To Net: NetName=GND Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=L1-1
+Added Pin To Net: NetName=GND Pin=L2-1
+Added Pin To Net: NetName=GND Pin=L3-1
+Added Pin To Net: NetName=GND Pin=L4-1
+Added Pin To Net: NetName=GND Pin=L5-1
+Added Pin To Net: NetName=GND Pin=L6-1
+Added Pin To Net: NetName=GND Pin=L7-1
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=Q_HIGH-2
+Added Pin To Net: NetName=GND Pin=Q_HIGH_CONN-1
+Added Pin To Net: NetName=GND Pin=Q_HIGH_CONN-3
+Added Pin To Net: NetName=GND Pin=Q_LOW-2
+Added Pin To Net: NetName=GND Pin=Q_LOW_CONN-1
+Added Pin To Net: NetName=GND Pin=Q_LOW_CONN-3
+Added Pin To Net: NetName=GND Pin=Supp-2
+Added Pin To Net: NetName=GND Pin=Supp-3
+Added Pin To Net: NetName=GND Pin=TRIGG_CONN-1
+Added Pin To Net: NetName=GND Pin=TRIGG_CONN-3
+Added Pin To Net: NetName=GND Pin=TRIGGER-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=HEX_IN Pin=H1-3
+Added Pin To Net: NetName=HEX_IN Pin=H1-5
+Added Pin To Net: NetName=HEX_IN Pin=H1-9
+Added Pin To Net: NetName=HEX_IN Pin=H1-11
+Added Pin To Net: NetName=HEX_IN Pin=S3-3
+Added Net: Name=HEX_IN
+Added Pin To Net: NetName=NetC2IC2_1 Pin=C2IC2-1
+Added Pin To Net: NetName=NetC2IC2_1 Pin=IC2-5
+Added Net: Name=NetC2IC2_1
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-6
+Added Net: Name=NetIC2_2
+Added Pin To Net: NetName=NetIC2_7 Pin=IC2-7
+Added Pin To Net: NetName=NetIC2_7 Pin=R1IC2-1
+Added Pin To Net: NetName=NetIC2_7 Pin=R2IC2-2
+Added Net: Name=NetIC2_7
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R01-2
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=R02-1
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=R03-2
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=R04-2
+Added Net: Name=NetL4_2
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Pin To Net: NetName=NetL5_2 Pin=RH5-2
+Added Net: Name=NetL5_2
+Added Pin To Net: NetName=NetL6_2 Pin=L6-2
+Added Pin To Net: NetName=NetL6_2 Pin=RH6-2
+Added Net: Name=NetL6_2
+Added Pin To Net: NetName=NetL7_2 Pin=L7-2
+Added Pin To Net: NetName=NetL7_2 Pin=RH7-2
+Added Net: Name=NetL7_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=UR1-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=RSupp1-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetS3_1 Pin=S3-1
+Added Pin To Net: NetName=NetS3_1 Pin=S3-2
+Added Net: Name=NetS3_1
+Added Pin To Net: NetName=THRES/TRIGG Pin=C1IC2-2
+Added Pin To Net: NetName=THRES/TRIGG Pin=R2IC2-1
+Added Net: Name=THRES/TRIGG
+Added Class: Name=Schematic
+Added Room: Name=Schematic
